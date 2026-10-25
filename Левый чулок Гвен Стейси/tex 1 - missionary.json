@@ -1,0 +1,50 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 1 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "StockingL_Lower",
+                    "RectInt": {
+                        "x": 10,
+                        "y": 10,
+                        "width": 321,
+                        "height": 780
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "StockingL_thigh",
+                    "RectInt": {
+                        "x": 351,
+                        "y": 10,
+                        "width": 665,
+                        "height": 529
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "StockingL_foot",
+                    "RectInt": {
+                        "x": 351,
+                        "y": 559,
+                        "width": 248,
+                        "height": 452
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

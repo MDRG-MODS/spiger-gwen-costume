@@ -1,0 +1,26 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 7 - doggy_texture0_layer5.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
