@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 6 - cowgirl_texture0_layer5.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 546,
+                        "height": 504
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 561,
+                        "y": 5,
+                        "width": 234,
+                        "height": 277
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

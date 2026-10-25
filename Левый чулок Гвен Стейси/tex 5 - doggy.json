@@ -1,0 +1,26 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - doggy_texture0_layer5.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 234,
+                        "height": 258
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

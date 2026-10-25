@@ -1,0 +1,74 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - missionary_texture0_layer5.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 391,
+                        "height": 380
+                    },
+                    "ColorIndex": 1000,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLegLFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 395,
+                        "width": 376,
+                        "height": 374
+                    },
+                    "ColorIndex": 1000,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 391,
+                        "y": 395,
+                        "width": 342,
+                        "height": 362
+                    },
+                    "ColorIndex": 1000,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 406,
+                        "y": 5,
+                        "width": 529,
+                        "height": 360
+                    },
+                    "ColorIndex": 1000,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButtR",
+                    "RectInt": {
+                        "x": 743,
+                        "y": 395,
+                        "width": 322,
+                        "height": 344
+                    },
+                    "ColorIndex": 1000,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

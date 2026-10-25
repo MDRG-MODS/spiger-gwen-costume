@@ -1,0 +1,18 @@
+{
+    "name": "Костюм Гвен Стейси",
+    "description": "Костюм V 1.0.0 Есть небольшие недостатки по швам. Постараюсь убрать в следующей версии. ВАЖНО : После покупки в магазине, измените все цвета костюма на (БЕЛЫЙ)",
+    "modVersion": "1.0.0",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.97.11",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639280794042545190,
+        "guid": {
+            "serializedGuid": "00dc1614-23cc-4b36-bca9-6cd3f7300a6e"
+        }
+    }
+}
